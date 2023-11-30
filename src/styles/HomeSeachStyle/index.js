@@ -1,0 +1,1 @@
+export {default as HomeSearchStyle} from './HomeSearchStyle';
